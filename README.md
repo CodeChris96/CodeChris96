@@ -17,6 +17,8 @@
 ###  <p align="center"> Hi, I'm Chris! 👋
 
 Welcome to my GitHub profile! I'm a 🚀 software developer with a focus on web development. I specialize in creating responsive and interactive web applications using JavaScript and related technologies.
+ 
+ Check out my Linkedin: https://www.linkedin.com/in/chris-edwards96/
 
 <h2 align="center">
   Skills
