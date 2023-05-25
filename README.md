@@ -1,7 +1,4 @@
 
-
-
-
 <!--  https://github.com/CodeChris96  -->
 <p align="center">
  
@@ -14,11 +11,9 @@
 </p>
 
 
-###  <p align="center"> Hi, I'm Chris! 👋
- 
-<p align="center"> Frontend Software Developer | JavaScript | React | Node | Express | SQL | Jest | Docker | But I can learn anything.
 
-<p align="center">Welcome to my GitHub profile! I'm a 🚀 software developer with a focus on web development. I specialize in creating responsive and interactive web applications using JavaScript and related technologies.
+ 
+<h2 align="center"> Frontend Software Developer | JavaScript | React | Node | Express | SQL | Jest | Docker | But I can learn anything.
  
  <h4 align="center">Check out my Linkedin: https://www.linkedin.com/in/chris-edwards96/
 
